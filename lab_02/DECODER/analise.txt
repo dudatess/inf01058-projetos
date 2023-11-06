@@ -1,3 +1,4 @@
 Total pins: 20
 Total logical elements: 16
+Consumo de área da FPGA: 36
 Atraso critico: 8.592
