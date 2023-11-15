@@ -1,0 +1,4 @@
+total pins: 16
+total logical elements: 11
+atraso crítico: 9.184
+consumo de área: 27
