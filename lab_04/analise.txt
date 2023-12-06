@@ -1,0 +1,3 @@
+Atraso Crítico: 10.803
+Total logic elements: 18
+Total pins: 23
