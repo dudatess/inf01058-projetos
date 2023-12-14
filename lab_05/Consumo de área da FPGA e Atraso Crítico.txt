@@ -1,0 +1,4 @@
+Pinos: 3
+Total Logic Elements: 47
+
+Atraso crítico: 0,000682ns
