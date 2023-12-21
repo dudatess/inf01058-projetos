@@ -1,0 +1,4 @@
+Atraso crítico: 2,283 ns
+Total logic elements:90
+Total pins:34
+Total registers: 32
